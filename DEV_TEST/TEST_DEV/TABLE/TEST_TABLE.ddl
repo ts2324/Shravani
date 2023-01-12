@@ -1,6 +1,1 @@
-create or replace TABLE TEST_TABLE (
-	EMPID NUMBER(10,0),
-	ENAME VARCHAR(50),
-	SAL VARCHAR(50),
-	DNO NUMBER(10,0)
-);
+alter TABLE TEST_TABLE add column dname varchar(20);
