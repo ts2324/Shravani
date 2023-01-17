@@ -1,1 +1,1 @@
-alter TABLE SUPPLIER  add column New_SUPPLIER1 varchar(20);
+alter table Supplier  add column New_SUPPLIER1 varchar(20);
