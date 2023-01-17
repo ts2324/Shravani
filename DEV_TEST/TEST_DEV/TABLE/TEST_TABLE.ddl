@@ -1,0 +1,7 @@
+create or replace TABLE TEST_TABLE (
+	EMPID NUMBER(10,0),
+	ENAME VARCHAR(50),
+	SAL VARCHAR(50),
+	DNAME VARCHAR(20),
+	ord varchar(10)
+);
