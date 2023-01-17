@@ -1,1 +1,1 @@
-alter table NATION  add column NEW_NATION2  varchar(20);
+alter table NATION  add column NEW_NATION3  varchar(20);
