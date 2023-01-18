@@ -1,1 +1,1 @@
-alter table Supplier  add column New_SUPPLIER2 varchar(20);
+alter table Supplier  drop column New_SUPPLIER2 varchar(20);
